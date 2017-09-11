@@ -2,5 +2,5 @@
 A demonstration of dynamic route switching based on incoming requests in akka-http.
 
 There are two example approaches:
-1. Encapsulating the switch decision in an actor.
+1. Encapsulating the switch decision (and state) in an actor.
 2. Explicitly synchronized switch variable. 
